@@ -6,4 +6,4 @@
   <img src="https://img.shields.io/badge/Status-En_Desarrollo-orange" alt="Status">
 </div>
 
-# 🍓 Proyecto ODS 12 - Detección de Organofosforados en Fresas
+- [🍓 Objetivos de Desarrollo Sostenible](#-objetivos-de-desarrollo-sostenible)
