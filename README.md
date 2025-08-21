@@ -5,4 +5,4 @@
   <img src="https://img.shields.io/badge/Curso-Fundamentos_de_Diseño-white" alt="Curso">
   <img src="https://img.shields.io/badge/Status-En_Desarrollo-orange" alt="Status">
 </div>
-# 🍓 Proyecto ODS 12 - Detección de Organofosforados en Fresas
+<title># 🍓 Proyecto ODS 12 - Detección de Organofosforados en Fresas</title>
