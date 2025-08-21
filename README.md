@@ -11,12 +11,10 @@
 
 ## 👥 Integrantes  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Integrante_1-Ana_Pérez-ff69b4" alt="Integrante 1">
-  <img src="https://img.shields.io/badge/Integrante_2-Carlos_García-lightblue" alt="Integrante 2">
-  <img src="https://img.shields.io/badge/Integrante_3-Lucía_Torres-green" alt="Integrante 3">
-  <img src="https://img.shields.io/badge/Integrante_4-Juan_Ramírez-yellow" alt="Integrante 4">
-</p>
+✨ **Verenisse Mary Quispitongo LEON**  
+✨ **Carlos García**  
+✨ **Lucía Torres**  
+✨ **Juan Ramírez**
 
 ---
 
