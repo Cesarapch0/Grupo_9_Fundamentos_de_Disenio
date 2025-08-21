@@ -12,9 +12,9 @@
 ## 👥 Integrantes  
 
 ✨ **Verenisse Mary Quispitongo LEON**  
-✨ **Carlos García**  
-✨ **Lucía Torres**  
-✨ **Juan Ramírez**
+✨ **Antony Geampier Zuñiga Vasquez**  
+✨ **César Alejandro Aarón Apcho Meneses**  
+✨ **Josue Sayago Moran**
 
 ---
 
