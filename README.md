@@ -16,10 +16,13 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**    
 - ODS 11: Ciudades y Comunidades Sostenibles
+
 <p align="center">
 <img src="/Recursos/Imágenes/ods11.png" width="150"/>
 </p>
+
 - ODS 13: Acción por el Clima
+
 <p align="center"><img src="/Recursos/Imágenes/ods13.png" width="150"/>
 </p>
 
@@ -46,6 +49,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📌 Resumen Final  
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+
 
 
 
