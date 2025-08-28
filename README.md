@@ -2,11 +2,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Grupo-9-red" alt="Grupo 9">
   <img src="https://img.shields.io/badge/Universidad-UPCH-blue" alt="UPCH">
-  <img src="https://img.shields.io/badge/Curso-Fundamentos_de_Diseño-white" alt="Curso">
+  <img src="https://img.shields.io/badge/Curso-Fundamentos_de_Diseño-ligth_blue" alt="Curso">
   <img src="https://img.shields.io/badge/Status-En_Desarrollo-orange" alt="Status">
 </p>
----
-### Carrera de Ingeniería Ambiental / Informática  
+
+Carrera de Ingeniería Ambiental / Informática  
 **Universidad Peruana Cayetano Heredia**
 ---
 
@@ -45,5 +45,6 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📌 Resumen Final  
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+
 
 
