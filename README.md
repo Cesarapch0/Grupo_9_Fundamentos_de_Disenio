@@ -1,4 +1,4 @@
-# Grupo_9_Fundamentos_de_Diseño 2025-2🌍
+# Grupo 9 Fundamentos de Diseño 2025-2🌍
 <p align="center">
   <img src="https://img.shields.io/badge/Grupo-9-red" alt="Grupo 9">
   <img src="https://img.shields.io/badge/Universidad-UPCH-blue" alt="UPCH">
@@ -45,6 +45,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📌 Resumen Final  
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+
 
 
 
