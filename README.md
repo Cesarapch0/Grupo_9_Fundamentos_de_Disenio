@@ -14,10 +14,11 @@ Carrera de Ingeniería Ambiental / Informática
 Somos el **Equipo 9** del curso **Fundamentos de Diseño 2025-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
-Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- ODS 3: Salud y Bienestar   
+Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**    
 - ODS 11: Ciudades y Comunidades Sostenibles  
-- ODS 13: Acción por el Clima  
+- ODS 13: Acción por el Clima
+<img src="/Recursos/Imágenes/ods11.jpg" width="90"/>
+<img src="/Recursos/Imágenes/ods13.jpg" width="90"/>
 
 ---
 
@@ -42,6 +43,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📌 Resumen Final  
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+
 
 
 
