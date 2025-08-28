@@ -26,7 +26,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ## 📸 Fotografía del Equipo  
 <p align="center">
   <img src="Recursos/Imágenes/equipo.jpg" width=500/><br>
-  <em>Figura 1. Fotografía del equipo 0X</em>
+  <em>Figura 1. Fotografía del equipo</em>
 </p>
 
 ---
@@ -45,6 +45,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📌 Resumen Final  
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+
 
 
 
