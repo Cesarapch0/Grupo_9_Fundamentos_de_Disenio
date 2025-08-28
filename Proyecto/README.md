@@ -1,4 +1,5 @@
-# Proyecto
+# Proyecto - Grupo 9
+Este proyecto está enfocado en la evaluación de la c
 
 En esta carpeta deben estar todos los archivos necesarios para poder replicar el proyecto:
 
@@ -7,3 +8,4 @@ En esta carpeta deben estar todos los archivos necesarios para poder replicar el
 - Esquemas electrónicos (Módulo Electrónico)
 
 Cada módulo contiene su propia documentación y recursos específicos para facilitar la implementación y el montaje del proyecto.
+
