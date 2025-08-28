@@ -25,7 +25,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-  <img src="https://web.whatsapp.com/0a09101b-624a-49c1-a6fa-2d9911da0d7b"><br>
+  <img src=""><br>
   <em>Figura 1. Fotografía del equipo 0X</em>
 </p>
 
@@ -45,6 +45,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📌 Resumen Final  
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+
 
 
 
