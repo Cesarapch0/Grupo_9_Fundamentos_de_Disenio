@@ -11,13 +11,11 @@ Carrera de Ingeniería Ambiental / Informática
 ---
 
 ## 🌍 Descripción del Equipo  
-Somos el **Equipo 0X** del curso **Fundamentos de Diseño 2025-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+Somos el **Equipo 9** del curso **Fundamentos de Diseño 2025-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- ODS 3: Salud y Bienestar  
-- ODS 6: Agua Limpia y Saneamiento  
-- ODS 9: Industria, Innovación e Infraestructura  
+- ODS 3: Salud y Bienestar   
 - ODS 11: Ciudades y Comunidades Sostenibles  
 - ODS 13: Acción por el Clima  
 
@@ -37,13 +35,14 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 |------|--------|-----|-----------|
 | <img src="/Recursos/Imágenes/verenisse.jpg" width="90"/> | **Verenisse Mary Quispitongo León** | Líder del equipo | Innovación social, sostenibilidad |
 | <img src="/Recursos/Imágenes/josue.jpg" width="90"/> | **Josue Enmanuel Sayago Moran** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Antony Geanpier Zuñiga Vásquez** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/antony.jpg" width="90"/> | **Antony Geanpier Zuñiga Vásquez** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/cesar.jpg" width="90"/> | **César Alejandro Aarón Apcho Meneses** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
 ## 📌 Resumen Final  
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+
 
 
 
