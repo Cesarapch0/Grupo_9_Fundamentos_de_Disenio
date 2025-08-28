@@ -42,13 +42,14 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 |------|--------|-----|-----------|
 | <img src="/Recursos/Imágenes/verenisse.jpg" width="90"/> | **Verenisse Mary Quispitongo León** | Líder del equipo | Innovación social, sostenibilidad |
 | <img src="/Recursos/Imágenes/josue.jpg" width="90"/> | **Josue Enmanuel Sayago Moran** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/antony.jpg" width="90"/> | **Antony Geanpier Zuñiga Vásquez** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/antony.jpg" width="90"/> | **Antony Geampier Zuñiga Vásquez** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/cesar.jpg" width="90"/> | **César Alejandro Aarón Apcho Meneses** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
 ## 📌 Resumen Final  
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+
 
 
 
