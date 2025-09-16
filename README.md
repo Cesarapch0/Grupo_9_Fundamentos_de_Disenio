@@ -29,7 +29,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ---
 
 ## 💦 Nuestra Problemática
-En Lima Norte, particularmente en distritos como San Martín de Porres, Los Olivos, la calidad del aire presenta niveles preocupantes debido a la alta concentración de material particulado PM₂.₅ generado por el transporte vehicular, la quema de combustibles y la escasa regulación de emisiones en zonas urbanas altamente transitadas. Este problema se intensifica en espacios cerrados como aulas escolares y universitarias, donde la falta de sistemas de ventilación adecuados y el hacinamiento estudiantil provocan una acumulación de contaminantes y dióxido de carbono.
+En Lima Norte, particularmente en distritos como San Martín de Porres y Los Olivos, la calidad del aire presenta niveles preocupantes debido a la alta concentración de material particulado fino (PM₂.₅) generado por el transporte vehicular, la quema de combustibles y la escasa regulación de emisiones en zonas urbanas altamente transitadas. A esta situación se suma el deterioro de la calidad del aire en espacios interiores, como aulas escolares y oficinas, donde el hacinamiento y la falta de ventilación adecuada generan acumulación de contaminantes y elevadas concentraciones de dióxido de carbono (CO₂), que superan en muchos casos los valores recomendados por la normativa. Esta combinación de contaminantes externos e internos incrementa el riesgo de enfermedades respiratorias y cardiovasculares, disminuye el rendimiento académico y laboral, y constituye una amenaza directa para la salud pública y el bienestar de la población urbana y estudiantil.
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
@@ -52,6 +52,7 @@ En Lima Norte, particularmente en distritos como San Martín de Porres, Los Oliv
 
 ## 📌 Resumen Final  
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+
 
 
 
