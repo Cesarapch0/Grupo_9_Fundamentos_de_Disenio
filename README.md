@@ -20,12 +20,6 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 <p align="center">
 <img src="/Recursos/Imágenes/ods11.png" width="150"/>
 </p>
-
-- ODS 13: Acción por el Clima
-
-<p align="center"><img src="/Recursos/Imágenes/ods13.png" width="150"/>
-</p>
-
 ---
 
 ## 💦 Nuestra Problemática
@@ -52,6 +46,7 @@ En Lima Norte, particularmente en distritos como San Martín de Porres y Los Oli
 
 ## 📌 Resumen Final  
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+
 
 
 
