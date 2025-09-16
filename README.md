@@ -17,9 +17,6 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**    
 - ODS 11: Ciudades y Comunidades Sostenibles
 
-## 🌍 Nuestra Problemática
-En Lima Norte, particularmente en distritos como San Martín de Porres, Los Olivos, la calidad del aire presenta niveles preocupantes debido a la alta concentración de material particulado PM₂.₅ generado por el transporte vehicular, la quema de combustibles y la escasa regulación de emisiones en zonas urbanas altamente transitadas. Este problema se intensifica en espacios cerrados como aulas escolares y universitarias, donde la falta de sistemas de ventilación adecuados y el hacinamiento estudiantil provocan una acumulación de contaminantes y dióxido de carbono.
-
 <p align="center">
 <img src="/Recursos/Imágenes/ods11.png" width="150"/>
 </p>
@@ -30,6 +27,9 @@ En Lima Norte, particularmente en distritos como San Martín de Porres, Los Oliv
 </p>
 
 ---
+
+## 💦 Nuestra Problemática
+En Lima Norte, particularmente en distritos como San Martín de Porres, Los Olivos, la calidad del aire presenta niveles preocupantes debido a la alta concentración de material particulado PM₂.₅ generado por el transporte vehicular, la quema de combustibles y la escasa regulación de emisiones en zonas urbanas altamente transitadas. Este problema se intensifica en espacios cerrados como aulas escolares y universitarias, donde la falta de sistemas de ventilación adecuados y el hacinamiento estudiantil provocan una acumulación de contaminantes y dióxido de carbono.
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
@@ -52,6 +52,7 @@ En Lima Norte, particularmente en distritos como San Martín de Porres, Los Oliv
 
 ## 📌 Resumen Final  
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+
 
 
 
