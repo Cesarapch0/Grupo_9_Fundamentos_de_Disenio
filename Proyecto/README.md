@@ -4,7 +4,6 @@
   <strong>Carrera de Ingeniería Ambiental e Ingeniería Informática</strong><br>
   <em>Universidad Peruana Cayetano Heredia</em>
 </p>
-
 ---
 
 <p align="center">
@@ -85,6 +84,7 @@ Este proyecto se alinea directamente con la **meta 11.6**, que busca:
 <p align="center">
   <img src="/Recursos/Imágenes/imagenes/ODSperu.gif" alt="ODS 11" width="400">
 </p>
+
 
 
 
