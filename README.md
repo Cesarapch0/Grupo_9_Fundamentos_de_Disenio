@@ -48,10 +48,10 @@ En Lima Norte, particularmente en distritos como San Martín de Porres y Los Oli
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/verenisse.jpg" width="90"/> | **Verenisse Mary Quispitongo León** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/josue.jpg" width="90"/> | **Josue Enmanuel Sayago Moran** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/antony.jpg" width="90"/> | **Antony Geampier Zuñiga Vásquez** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/cesar.jpg" width="90"/> | **César Alejandro Aarón Apcho Meneses** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/imagen/verenisse.jpg" width="90"/> | **Verenisse Mary Quispitongo León** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/imagen/josue.jpg" width="90"/> | **Josue Enmanuel Sayago Moran** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/imagen/antony.jpg" width="90"/> | **Antony Geampier Zuñiga Vásquez** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/imagen/cesar.jpg" width="90"/> | **César Alejandro Aarón Apcho Meneses** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
@@ -62,6 +62,7 @@ En Lima Norte, particularmente en distritos como San Martín de Porres y Los Oli
 - Como Equipo 09- UPCH, asumimos el compromiso de usar el diseño, la innovación y la interdisciplinariedad como herramientas para proponer soluciones que generen un impacto positivo en la sociedad, la tecnología y el ambiente.
 
 - En conclusión, nuestro propósito es aprender, crear e innovar, con responsabilidad hacia las personas, la comunidad y el planeta.
+
 
 
 
