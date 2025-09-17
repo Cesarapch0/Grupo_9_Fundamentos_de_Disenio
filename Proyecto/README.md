@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fods.inei.gob.pe%2Fods%2F&psig=AOvVaw3eyYgoTT-x5_WUCFgFgMo5&ust=1758150452980000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCJhaSz3o8DFQAAAAAdAAAAABAE](https://aquafondo.org.pe/wp-content/themes/theme_2024/images/11-Ciudades-1.gif)">
+  <img src="https://aquafondo.org.pe/wp-content/themes/theme_2024/images/11-Ciudades-1.gif" alt="ODS 11 Ciudades Sostenibles GIF" width="400">
 </p>
 
 ---
@@ -82,3 +82,4 @@ Este proyecto se alinea directamente con la **meta 11.6**, que busca:
 <p align="center">
   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fods.inei.gob.pe%2Fods%2F&psig=AOvVaw3eyYgoTT-x5_WUCFgFgMo5&ust=1758150452980000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCJhaSz3o8DFQAAAAAdAAAAABAE">
 </p>
+
