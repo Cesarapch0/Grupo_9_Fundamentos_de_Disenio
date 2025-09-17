@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="/Recursos/Imágenes/ODS11.gif" alt="ODS 11" width="400">
+  <img src="/Recursos/Imágenes/imagenes/ODS11.gif" alt="ODS 11" width="400">
 </p>
 
 ---
@@ -80,8 +80,9 @@ Este proyecto se alinea directamente con la **meta 11.6**, que busca:
 ✨ Este enfoque no solo responde a los retos ambientales de las ciudades modernas, sino que también impulsa la creación de **comunidades sostenibles, inclusivas y seguras para todos**.
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fods.inei.gob.pe%2Fods%2F&psig=AOvVaw3eyYgoTT-x5_WUCFgFgMo5&ust=1758150452980000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCJhaSz3o8DFQAAAAAdAAAAABAE">
+  <img src="/Recursos/Imágenes/imagenes/ODSperu.gif" alt="ODS 11" width="400">
 </p>
+
 
 
 
