@@ -59,8 +59,6 @@ Desarrollar una **estructura ligera, económica y fácilmente replicable**, que 
 ---
 
 ---
-## 🌍 ODS Relacionada
-
 ## 🌍 ODS Relacionada  
 
 ### 🏙️ **ODS 11 – Ciudades y Comunidades Sostenibles**  
@@ -82,6 +80,7 @@ Este proyecto se alinea directamente con la **meta 11.6**, que busca:
 <p align="center">
   <img src="/Recursos/Imágenes/imagenes/ODSperu.gif" alt="ODS 11" width="400">
 </p>
+
 
 
 
