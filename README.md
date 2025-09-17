@@ -38,7 +38,7 @@ En Lima Norte, particularmente en distritos como San Martín de Porres y Los Oli
 ---
 ## 📸 Fotografía del Equipo  
 <p align="center">
-  <img src="Recursos/Imágenes/equipo.jpg" width=500/><br>
+  <img src="Recursos/Imágenes/imagenes/equipo.jpg" width=500/><br>
   <em>Figura 1. Fotografía del equipo</em>
 </p>
 
@@ -62,6 +62,7 @@ En Lima Norte, particularmente en distritos como San Martín de Porres y Los Oli
 - Como Equipo 09- UPCH, asumimos el compromiso de usar el diseño, la innovación y la interdisciplinariedad como herramientas para proponer soluciones que generen un impacto positivo en la sociedad, la tecnología y el ambiente.
 
 - En conclusión, nuestro propósito es aprender, crear e innovar, con responsabilidad hacia las personas, la comunidad y el planeta.
+
 
 
 
