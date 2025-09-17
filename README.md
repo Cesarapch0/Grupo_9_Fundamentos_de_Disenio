@@ -18,7 +18,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 - ODS 11: Ciudades y Comunidades Sostenibles
 
 <p align="center">
-<img src="/Recursos/Imágenes/ods11.png" width="150"/>
+<img src="/Recursos/Imágenes/imagenes/ODS11.gif" width="150"/>
 </p>
 ---
 
@@ -50,3 +50,4 @@ En Lima Norte, particularmente en distritos como San Martín de Porres y Los Oli
 - Como Equipo 09- UPCH, asumimos el compromiso de usar el diseño, la innovación y la interdisciplinariedad como herramientas para proponer soluciones que generen un impacto positivo en la sociedad, la tecnología y el ambiente.
 
 - En conclusión, nuestro propósito es aprender, crear e innovar, con responsabilidad hacia las personas, la comunidad y el planeta.
+
