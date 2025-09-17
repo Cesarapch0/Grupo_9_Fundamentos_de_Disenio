@@ -12,7 +12,7 @@
 </p>
 
 ---
-# 🌍 🇵🇪 Problemática  
+# 🌍 Problemática <img src="https://flagcdn.com/w20/pe.png" alt="Perú" width="25"/>  
 
 En Lima Norte, particularmente en distritos como **San Martín de Porres** y **Los Olivos**, la calidad del aire presenta niveles preocupantes debido a la alta concentración de material particulado fino (PM₂.₅) generado por el transporte vehicular, la quema de combustibles y la escasa regulación de emisiones en zonas urbanas altamente transitadas. A esta situación se suma el deterioro de la calidad del aire en espacios interiores, como aulas escolares y oficinas, donde el hacinamiento y la falta de ventilación adecuada generan acumulación de contaminantes y elevadas concentraciones de dióxido de carbono (CO₂), que superan en muchos casos los valores recomendados por la normativa. Esta combinación de contaminantes externos e internos incrementa el riesgo de enfermedades respiratorias y cardiovasculares, disminuye el rendimiento académico y laboral, y constituye una amenaza directa para la salud pública y el bienestar de la población urbana y estudiantil.
 
@@ -82,5 +82,6 @@ Este proyecto se alinea directamente con la **meta 11.6**, que busca:
 <p align="center">
   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fods.inei.gob.pe%2Fods%2F&psig=AOvVaw3eyYgoTT-x5_WUCFgFgMo5&ust=1758150452980000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCJhaSz3o8DFQAAAAAdAAAAABAE">
 </p>
+
 
 
