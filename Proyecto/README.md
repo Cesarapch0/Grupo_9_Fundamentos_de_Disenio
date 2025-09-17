@@ -12,12 +12,15 @@
 </p>
 
 ---
+
+---
 # 🌍 Problemática <img src="https://flagcdn.com/w20/pe.png" alt="Perú" width="25"/>  
 
 En Lima Norte, particularmente en distritos como **San Martín de Porres** y **Los Olivos**, la calidad del aire presenta niveles preocupantes debido a la alta concentración de material particulado fino (PM₂.₅) generado por el transporte vehicular, la quema de combustibles y la escasa regulación de emisiones en zonas urbanas altamente transitadas. A esta situación se suma el deterioro de la calidad del aire en espacios interiores, como aulas escolares y oficinas, donde el hacinamiento y la falta de ventilación adecuada generan acumulación de contaminantes y elevadas concentraciones de dióxido de carbono (CO₂), que superan en muchos casos los valores recomendados por la normativa. Esta combinación de contaminantes externos e internos incrementa el riesgo de enfermedades respiratorias y cardiovasculares, disminuye el rendimiento académico y laboral, y constituye una amenaza directa para la salud pública y el bienestar de la población urbana y estudiantil.
 
 ---
 
+---
 # 𖣘 Propósito del Proyecto  
 
 El propósito de este proyecto es **desarrollar un purificador multiprocesos automático que asegure aire limpio en cualquier espacio cerrado**, que permita **reducir contaminantes, alérgenos y partículas nocivas de manera eficiente**, garantizando la **salud, el bienestar y la productividad** en **hogares, oficinas y entornos de alta concurrencia.**.  
@@ -26,12 +29,14 @@ Este proyecto busca contribuir a la **ODS 11 – Ciudades y Comunidades Sostenib
 
 ---
 
+---
 # 🎯 Objetivo General  
 
 **Diseñar y construir un purificador multiprocesos automático que asegure aire limpio en cualquier espacio cerrado**, integrando **sensores de detección de componentes peligrosos en el aire y filtros de alta eficiencia**, con el propósito de **mejorar la calidad del aire en interiores y reducir los riesgos de salud en las personas**, en alineación con la **ODS 11**.  
 
 ---
 
+---
 # 📝 Objetivos Específicos  
 
 Estos objetivos guían el desarrollo del proyecto hacia soluciones **innovadoras, sostenibles y accesibles** para la mejora de la calidad del aire y la salud.  
@@ -80,6 +85,7 @@ Este proyecto se alinea directamente con la **meta 11.6**, que busca:
 <p align="center">
   <img src="/Recursos/Imágenes/imagenes/ODSperu.gif" alt="ODS 11" width="400">
 </p>
+
 
 
 
