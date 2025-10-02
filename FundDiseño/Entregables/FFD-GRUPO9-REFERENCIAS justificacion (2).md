@@ -10,7 +10,7 @@ La contaminación del aire en Lima Metropolitana, especialmente en Lima Norte, r
 En primer lugar, estudios realizados en Lima Metropolitana han estimado que el transporte público y la flota vehicular antigua aportan emisiones significativas de contaminantes críticos como monóxido de carbono (CO), óxidos de nitrógeno (NOₓ), dióxido de azufre (SO₂) y material particulado fino (PM2.5). Estas emisiones, aunque se encuentran dentro de ciertos estándares internacionales, reflejan la falta de datos locales precisos y de alta resolución, lo que limita la capacidad de respuesta de las autoridades. La implementación de tecnologías de monitoreo resulta, por tanto, una necesidad prioritaria para la salud pública y la planificación urbana sostenible[(1)](https://www.zotero.org/google-docs/?yIAitF).
 
 <p align="center">
-  <img src="/Recursos/Imágenes/imagenes/Gráfica1- referencias.png" alt= "Reporte mundial de calidad de aire 2024" width="600"/>
+  <img src="/Recursos/Imágenes/imagenes/Gráfica1- referencias.png" alt= "Reporte mundial de calidad de aire 2024" width="1000"/>
 </p>
 
 Según la AAP, Lima se ubica detrás de Ciudad de México y Ciudad de Guatemala en niveles de PM₂.₅, lo que confirma la urgencia de políticas efectivas contra la contaminación urbana.
