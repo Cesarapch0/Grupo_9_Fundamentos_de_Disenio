@@ -61,11 +61,8 @@ Esto evidencia la urgencia de contar con sistemas de monitoreo accesibles que ge
 
 ---
 ## 📌 Resumen Final  
-- Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
+“Lo que medimos hoy nos da las herramientas para respirar mejor mañana.”
 
-- Como Equipo 09- UPCH, asumimos el compromiso de usar el diseño, la innovación y la interdisciplinariedad como herramientas para proponer soluciones que generen un impacto positivo en la sociedad, la tecnología y el ambiente.
-
-- En conclusión, nuestro propósito es aprender, crear e innovar, con responsabilidad hacia las personas, la comunidad y el planeta.
 
 
 
