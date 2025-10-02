@@ -61,7 +61,8 @@ Esto evidencia la urgencia de contar con sistemas de monitoreo accesibles que ge
 
 ---
 ## 📌 Resumen Final  
-“Lo que medimos hoy nos da las herramientas para respirar mejor mañana.”
+**“Lo que medimos hoy nos da las herramientas para respirar mejor mañana.”**
+
 
 
 
