@@ -15,8 +15,6 @@ En primer lugar, estudios realizados en Lima Metropolitana han estimado que el t
 
 Según la AAP, Lima se ubica detrás de Ciudad de México y Ciudad de Guatemala en niveles de PM₂.₅, lo que confirma la urgencia de políticas efectivas contra la contaminación urbana.
 
-En segundo lugar, en zonas críticas como San Martín de Porres, se han registrado concentraciones promedio diarias de PM10 superiores a 80 µg/m³ y picos por encima de 160 µg/m³, excediendo los estándares de calidad del aire. Esta exposición crónica a contaminantes se traduce en un mayor riesgo de enfermedades respiratorias y cardiovasculares, posicionando a Lima Norte como un punto crítico en la problemática ambiental urbana[(2)](https://www.zotero.org/google-docs/?XFuvV4).
-
 Por otra parte, factores meteorológicos como la temperatura y la velocidad del viento influyen directamente en la dispersión de contaminantes. Estudios en Lima Metropolitana entre 2020 y 2021 muestran que temperaturas elevadas aumentan la formación de ozono troposférico (O3), mientras que bajas velocidades de viento en invierno reducen la dispersión del dióxido de nitrógeno (NO2), generando acumulaciones peligrosas en el aire [(3)](https://www.zotero.org/google-docs/?RoEsVH). Estos hallazgos resaltan la necesidad de incorporar variables climáticas en los sistemas de monitoreo locales.
 
 Asimismo, modelos de simulación atmosférica (WRF-Chem) han confirmado que las emisiones vehiculares son responsables de gran parte de la contaminación por PM2,5, tanto de manera directa como a través de procesos de formación secundaria. Esto refuerza la urgencia de políticas públicas en Lima Norte orientadas a promover transporte sostenible, reducir la quema de combustibles y fomentar la transición hacia energías limpias [(4)](https://www.zotero.org/google-docs/?ByJEet).
@@ -32,8 +30,6 @@ En conclusión, los estudios revisados muestran que la contaminación del aire e
 \[1\] Romero Y, Chicchon N, Duarte F, Noel J, Ratti C, Nyhan M. *Quantifying and spatial disaggregation of air pollution emissions from ground transportation in a developing country context: Case study for the Lima Metropolitan Area in Peru*. Sci Total Environ. 2020; 698:134313.
 
 Asociación Automotriz del Perú – AAP. Respirar en Perú es un riesgo: contaminación supera tres veces niveles recomendados por la OMS. \[Internet\]. Lima: AAP; 2023 \[citado 2 oct 2025\]. Disponible en: [https://aap.org.pe/respirar-en-peru-es-un-riesgo-contaminacion-supera-tres-veces-niveles-recomendados-por-la-oms/](https://aap.org.pe/respirar-en-peru-es-un-riesgo-contaminacion-supera-tres-veces-niveles-recomendados-por-la-oms/)
-
-\[2\] Solis Teran MA, Leite Coelho Da Silva F, Torres Armas EA, Carbo-Bustinza N, López-Gonzales JL. *Modeling Air Pollution in Metropolitan Lima: A Statistical and Artificial Neural Network Approach*. Environments. 2025;12(6):196.
 
 \[3\] Carrasco Suasaca CM, Cano Delgadillo XY. *Evaluación de las concentraciones de Ozono Troposférico y su relación con el agente formador NO2 en la ciudad de Lima Metropolitana 2020 \- 2021*. Repositorio UPeU. 2023\. Disponible en: [https://repositorio.upeu.edu.pe/bitstreams/36e09d61-067b-4a18-8078-3ea389c15d65/download](https://repositorio.upeu.edu.pe/bitstreams/36e09d61-067b-4a18-8078-3ea389c15d65/download)
 
