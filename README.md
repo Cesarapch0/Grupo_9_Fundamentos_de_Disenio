@@ -35,6 +35,7 @@ Esto evidencia la urgencia de contar con sistemas de monitoreo accesibles que ge
 
 <p align="center">
 <img src="https://portal.andina.pe/EDPfotografia3/Thumbnail/2017/04/25/000418243W.webp" width="550"/>
+  <em>Foto: La Republica </em>
 </p>
 
 ---
@@ -62,6 +63,7 @@ Esto evidencia la urgencia de contar con sistemas de monitoreo accesibles que ge
 ---
 ## 📌 Resumen Final  
 **“Lo que medimos hoy nos da las herramientas para respirar mejor mañana.”**
+
 
 
 
