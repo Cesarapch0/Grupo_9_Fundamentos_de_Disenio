@@ -118,7 +118,7 @@ Link: [https://www2.purpleair.com/products/purpleair-touch](https://www2.purplea
 </p>
 
 <p align="center">
-  <img src="/Recursos/Imágenes/imagenes/matriz 5.png" alt= "patente2" width="1000"/>
+  <img src="/Recursos/Imágenes/imagenes/matriz 5 .png" alt= "patente2" width="1000"/>
 </p>
 
 <p align="center">
