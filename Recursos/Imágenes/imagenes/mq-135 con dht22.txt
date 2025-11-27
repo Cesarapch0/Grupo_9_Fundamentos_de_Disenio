@@ -1,0 +1,77 @@
+// =============================================================
+// LIBRERÍAS
+// =============================================================
+#include <Wire.h>
+#include <SPI.h>
+#include "DHT.h"
+#include "MQ135.h"
+
+// =============================================================
+// DEFINICIONES DE PINES
+// =============================================================
+#define DHTPIN 4          // Pin del DHT22
+#define DHTTYPE DHT22     // Tipo de sensor
+#define MQ135_PIN 34      // Pin analógico del MQ-135 (ESP32)
+
+// =============================================================
+// CALIBRACIÓN MQ-135
+// IMPORTANTE: Reemplaza este valor con tu propio R0 medido
+// =============================================================
+float R0_MQ135 = 75.0;   // <--- EJEMPLO (NO USAR EN PRODUCCIÓN)
+
+// =============================================================
+// OBJETOS DE SENSORES
+// =============================================================
+DHT dht(DHTPIN, DHTTYPE);
+MQ135 mq135_sensor = MQ135(MQ135_PIN, R0_MQ135);
+
+// =============================================================
+// SETUP
+// =============================================================
+void setup() {
+  Serial.begin(115200);
+  Serial.println("Iniciando sistema...");
+
+  dht.begin();
+  Serial.println("DHT22 iniciado.");
+
+  Serial.println("MQ-135 iniciado con R0.");
+  delay(15000); // calentamiento inicial de sensores
+}
+
+// =============================================================
+// LOOP
+// =============================================================
+void loop() {
+
+  // --- 1. Leer DHT22 ---
+  float humedad = dht.readHumidity();
+  float temperatura = dht.readTemperature();
+
+  if (isnan(humedad) || isnan(temperatura)) {
+    Serial.println("Error al leer el DHT22");
+  }
+
+  // --- 2. Leer MQ-135 ---
+  float co2_ppm = mq135_sensor.getCorrectedPPM(temperatura, humedad);
+
+  // --- 3. Imprimir resultados ---
+  Serial.println("======= NUEVA LECTURA =======");
+
+  Serial.print("Temperatura: ");
+  Serial.print(temperatura);
+  Serial.println(" °C");
+
+  Serial.print("Humedad: ");
+  Serial.print(humedad);
+  Serial.println(" %");
+
+  Serial.print("CO2 (eCO2 estimado): ");
+  Serial.print(co2_ppm);
+  Serial.println(" ppm");
+
+  Serial.println("=============================");
+  Serial.println("");
+
+  delay(5000); // cada 5 segundos
+}
