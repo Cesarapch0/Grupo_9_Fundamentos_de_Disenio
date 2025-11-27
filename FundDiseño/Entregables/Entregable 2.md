@@ -39,11 +39,11 @@ En conclusión, los estudios revisados muestran que la contaminación del aire e
 
 **Patentes**
 <p align="center">
-  <img src="/Recursos/Imágenes/imagenes/patente 2" alt= "Reporte mundial de calidad de aire 2024" width="1000"/>
+  <img src="/Recursos/Imágenes/imagenes/patente 2.png" alt= "patente1" width="1000"/>
 </p>
 
 <p align="center">
-  <img src="/Recursos/Imágenes/imagenes/patente 3" alt= "Reporte mundial de calidad de aire 2024" width="1000"/>
+  <img src="/Recursos/Imágenes/imagenes/patente 3.png" alt= "patente2" width="1000"/>
 </p>
 **Productos comerciales** 
 
