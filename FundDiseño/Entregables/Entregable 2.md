@@ -37,7 +37,7 @@ En conclusión, los estudios revisados muestran que la contaminación del aire e
 
 \[5\] Quispe Izquierdo AO. Calidad de aire en interiores por dióxido de carbono y su relación con la ventilación de las oficinas de la Municipalidad Provincial de Tocache \[Tesis de licenciatura\]. Tarapoto: Universidad Peruana Unión; 2020\. Disponible en: [https://repositorio.upeu.edu.pe/bitstreams/f1e65ff0-bd48-4a27-b124-1efd140f71fe/download](https://repositorio.upeu.edu.pe/bitstreams/f1e65ff0-bd48-4a27-b124-1efd140f71fe/download)
 
-**Patentes**
+## **Patentes**
 <p align="center">
   <img src="/Recursos/Imágenes/imagenes/patente 1 .png" alt= "patente2" width="1000"/>
 </p>
@@ -81,7 +81,7 @@ El PurpleAir Touch es un monitor de calidad del aire para interiores, diseñado 
 
 Link: [https://www2.purpleair.com/products/purpleair-touch](https://www2.purpleair.com/products/purpleair-touch)
 
-**Lista de exigencias** 
+## **Lista de exigencias** 
 
 | LISTA DE EXIGENCIAS |  |  | Pág: 5 |
 | :---- | :---- | :---- | ----- |
@@ -115,19 +115,19 @@ Link: [https://www2.purpleair.com/products/purpleair-touch](https://www2.purplea
 
 
 
-**Caja negra** 
+## **Caja negra** 
 <p align="center">
   <img src="/Recursos/Imágenes/imagenes/caja negra .png" alt= "patente2" width="1000"/>
 </p>
 
 
-**Esquema de funciones:** 
+## **Esquema de funciones:** 
 
 <p align="center">
   <img src="/Recursos/Imágenes/imagenes/esquema de funciones.png" alt= "patente2" width="1000"/>
 </p>
 
-**Matriz morfológica**
+## **Matriz morfológica**
 
 <p align="center">
   <img src="/Recursos/Imágenes/imagenes/matriz 1 .png" alt= "patente2" width="1000"/>
