@@ -39,6 +39,9 @@ En conclusión, los estudios revisados muestran que la contaminación del aire e
 
 **Patentes**
 <p align="center">
+  <img src="/Recursos/Imágenes/imagenes/patente 1 .png" alt= "patente2" width="1000"/>
+</p>
+<p align="center">
   <img src="/Recursos/Imágenes/imagenes/patente 2 .png" alt= "patente1" width="1000"/>
 </p>
 
@@ -51,7 +54,17 @@ En conclusión, los estudios revisados muestran que la contaminación del aire e
 
 El TSI AirAssure™ 8144-6 Monitor de Calidad del Aire Interior (modelo 8144-6-B1) es un dispositivo avanzado que mide de forma continua múltiples contaminantes y parámetros ambientales, incluyendo SO₂, O₃, NO₂, CO, COV, CO₂, partículas en suspensión, presión barométrica, temperatura y humedad relativa. Diseñado para programas de gestión de calidad del aire, este equipo se integra con el software TSI Link™ Solutions, que permite visualizar, gestionar e implementar estrategias de monitoreo de manera eficiente. La adquisición del monitor incluye una suscripción premium a TSI Link™ y servicios de datos por uno, dos o tres años, según la opción seleccionada. Actualmente, su disponibilidad se limita a EE. UU., Canadá, Europa y algunos países de Asia, requiriendo contacto directo con un representante de ventas para confirmar su adquisición.
 
-**![][image2]**
+<p align="center">
+  <img src="/Recursos/Imágenes/imagenes/figura 1 producto.png" alt= "patente2" width="1000"/>
+</p>
+
+<p align="center">
+  <img src="/Recursos/Imágenes/imagenes/figura 2 producto .png" alt= "patente2" width="1000"/>
+</p>
+
+<p align="center">
+  <img src="/Recursos/Imágenes/imagenes/figura 3 producto .png" alt= "patente2" width="1000"/>
+</p>
 
 Link: [https://tsi.com/products/indoor-air-quality-meters-instruments/continuous-iaq-monitoring-instruments/airassure-8144-6-indoor-air-quality-monitor](https://tsi.com/products/indoor-air-quality-meters-instruments/continuous-iaq-monitoring-instruments/airassure-8144-6-indoor-air-quality-monitor)
 
