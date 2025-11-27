@@ -9,9 +9,11 @@ La contaminación del aire en Lima Metropolitana, especialmente en Lima Norte, r
 
 En primer lugar, estudios realizados en Lima Metropolitana han estimado que el transporte público y la flota vehicular antigua aportan emisiones significativas de contaminantes críticos como monóxido de carbono (CO), óxidos de nitrógeno (NOₓ), dióxido de azufre (SO₂) y material particulado fino (PM2.5). Estas emisiones, aunque se encuentran dentro de ciertos estándares internacionales, reflejan la falta de datos locales precisos y de alta resolución, lo que limita la capacidad de respuesta de las autoridades. La implementación de tecnologías de monitoreo resulta, por tanto, una necesidad prioritaria para la salud pública y la planificación urbana sostenible[(1)](https://www.zotero.org/google-docs/?yIAitF).
 
-![][image1]
+<p align="center">
+  <img src="/Recursos/Imágenes/imagenes/Gráfica1- referencias.png" alt= "Reporte mundial de calidad de aire 2024" width="1000"/>
+</p>
 
-Según la AAP, Lima se ubica detrás de Ciudad de México y Ciudad de Guatemala en niveles de PM₂.₅, lo que confirma la urgencia de políticas efectivas contra la contaminación urbana.
+Lima se ubica detrás de Ciudad de México y Ciudad de Guatemala en niveles de PM₂.₅, lo que confirma la urgencia de políticas efectivas contra la contaminación urbana.(2)
 
 Por otra parte, factores meteorológicos como la temperatura y la velocidad del viento influyen directamente en la dispersión de contaminantes. Estudios en Lima Metropolitana entre 2020 y 2021 muestran que temperaturas elevadas aumentan la formación de ozono troposférico (O3), mientras que bajas velocidades de viento en invierno reducen la dispersión del dióxido de nitrógeno (NO2), generando acumulaciones peligrosas en el aire [(3)](https://www.zotero.org/google-docs/?RoEsVH). Estos hallazgos resaltan la necesidad de incorporar variables climáticas en los sistemas de monitoreo locales.
 
@@ -27,7 +29,7 @@ En conclusión, los estudios revisados muestran que la contaminación del aire e
 
 \[1\] Romero Y, Chicchon N, Duarte F, Noel J, Ratti C, Nyhan M. *Quantifying and spatial disaggregation of air pollution emissions from ground transportation in a developing country context: Case study for the Lima Metropolitan Area in Peru*. Sci Total Environ. 2020; 698:134313.
 
-De La Cruz LM. RESPIRAR EN PERÚ ES UN RIESGO: CONTAMINACIÓN TRIPLICA EL LÍMITE RECOMENDADO POR LA OMS \[Internet\]. Asociación Automotriz del Perú. 2025 \[citado el 8 de octubre de 2025\]. Disponible en: https://aap.org.pe/respirar-en-peru-es-un-riesgo-contaminacion-supera-tres-veces-niveles-recomendados-por-la-oms/
+(2) Asociación Automotriz del Perú – AAP. Respirar en Perú es un riesgo: contaminación supera tres veces niveles recomendados por la OMS. \[Internet\]. Lima: AAP; 2023 \[citado 2 oct 2025\]. Disponible en: [https://aap.org.pe/respirar-en-peru-es-un-riesgo-contaminacion-supera-tres-veces-niveles-recomendados-por-la-oms/](https://aap.org.pe/respirar-en-peru-es-un-riesgo-contaminacion-supera-tres-veces-niveles-recomendados-por-la-oms/)
 
 \[3\] Carrasco Suasaca CM, Cano Delgadillo XY. *Evaluación de las concentraciones de Ozono Troposférico y su relación con el agente formador NO2 en la ciudad de Lima Metropolitana 2020 \- 2021*. Repositorio UPeU. 2023\. Disponible en: [https://repositorio.upeu.edu.pe/bitstreams/36e09d61-067b-4a18-8078-3ea389c15d65/download](https://repositorio.upeu.edu.pe/bitstreams/36e09d61-067b-4a18-8078-3ea389c15d65/download)
 
@@ -36,7 +38,13 @@ De La Cruz LM. RESPIRAR EN PERÚ ES UN RIESGO: CONTAMINACIÓN TRIPLICA EL LÍMIT
 \[5\] Quispe Izquierdo AO. Calidad de aire en interiores por dióxido de carbono y su relación con la ventilación de las oficinas de la Municipalidad Provincial de Tocache \[Tesis de licenciatura\]. Tarapoto: Universidad Peruana Unión; 2020\. Disponible en: [https://repositorio.upeu.edu.pe/bitstreams/f1e65ff0-bd48-4a27-b124-1efd140f71fe/download](https://repositorio.upeu.edu.pe/bitstreams/f1e65ff0-bd48-4a27-b124-1efd140f71fe/download)
 
 **Patentes**
+<p align="center">
+  <img src="/Recursos/Imágenes/imagenes/patente 2" alt= "Reporte mundial de calidad de aire 2024" width="1000"/>
+</p>
 
+<p align="center">
+  <img src="/Recursos/Imágenes/imagenes/patente 3" alt= "Reporte mundial de calidad de aire 2024" width="1000"/>
+</p>
 **Productos comerciales** 
 
 # Monitor de calidad del aire interior AirAssure 8144-6
