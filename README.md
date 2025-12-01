@@ -56,13 +56,14 @@ Esto evidencia la urgencia de contar con sistemas de monitoreo accesibles que ge
 | <img src="/Recursos/Imágenes/imagenes/verenisse.jpg" width="90"/> | **Verenisse Mary Quispitongo León** verenisse.quispitongo@upch.pe | Líder del equipo | Innovación social, sostenibilidad |
 | <img src="/Recursos/Imágenes/imagenes/josue.jpg" width="90"/> | **Josue Enmanuel Sayago Moran** josue.sayago@upch.pe | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/Imágenes/imagenes/antony.jpg" width="90"/> | **Antony Geampier Zuñiga Vásquez** antony.zuniga@upch.pe| Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/imagenes/cesar.jpg" width="90"/> | **César Alejandro Aarón Apcho Meneses** cesar.apcho@upch.pe| Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/imagenes/cesar.jpg" width="90"/> | **César Alejandro Aarón Apcho Meneses** cesar.apcho@upch.pe| Programador/a - Modelador/a | Programación, análisis de datos, simulación, electrónica |
 
 ---
 
 ---
 ## 📌 Resumen Final  
 **“Lo que medimos hoy nos da las herramientas para respirar mejor mañana.”**
+
 
 
 
